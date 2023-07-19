@@ -1,0 +1,15 @@
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.exe
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.deps.json
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.runtimeconfig.json
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.pdb
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.csproj.AssemblyReference.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.AssemblyInfo.cs
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\refint\Chain of Responsibility.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.pdb
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.genruntimeconfig.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\С#\Generics\Chain-of-Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\net7.0\ref\Chain of Responsibility.dll
